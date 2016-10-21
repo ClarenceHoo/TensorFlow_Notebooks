@@ -1,4 +1,4 @@
-Exercises in this repo are provided by Udacity's Deep Learning class with TensorFlow
+Exercises in this repo are inspired by Udacity's Deep Learning class with TensorFlow - I may branch out to more complex TensorFlow models
 ===========================================================
 
 Course information can be found at https://www.udacity.com/course/deep-learning--ud730
