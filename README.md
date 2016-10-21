@@ -3,6 +3,13 @@ Exercises in this repo are provided by Udacity's Deep Learning class with Tensor
 
 Course information can be found at https://www.udacity.com/course/deep-learning--ud730
 
+It includes TensorFlow models on:
+- Convolutional Neural Nets
+- Inception or ResNet (TODO)
+- Recurrent Neural Nets with LSTM
+- Recurrent Neural Nets with GRU (TODO)
+- Sequence-to-Sequence LSTM (TODO) 
+
 Running the Docker container from the Google Cloud repository
 -------------------------------------------------------------
 
