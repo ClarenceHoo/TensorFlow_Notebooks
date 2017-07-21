@@ -1,4 +1,4 @@
-Exercises here are inspired by Udacity's Deep Learning class with TensorFlow - I may branch out to more complex TensorFlow models (GANs)
+TensorFlow examples (mostly inspired from a Deep Learning class) - I may branch out to more complex TensorFlow models (GANs)
 ===========================================================
 
 Course information can be found at https://www.udacity.com/course/deep-learning--ud730
