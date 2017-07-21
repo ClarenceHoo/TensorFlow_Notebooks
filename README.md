@@ -1,4 +1,4 @@
-Exercises here are inspired by Udacity's Deep Learning class with TensorFlow - I may branch out to more complex TensorFlow models
+Exercises here are inspired by Udacity's Deep Learning class with TensorFlow - I may branch out to more complex TensorFlow models (GANs)
 ===========================================================
 
 Course information can be found at https://www.udacity.com/course/deep-learning--ud730
@@ -8,7 +8,8 @@ It includes TensorFlow models on:
 - Inception or ResNet (TODO)
 - Recurrent Neural Nets with LSTM
 - Recurrent Neural Nets with GRU (TODO)
-- Sequence-to-Sequence LSTM (TODO) 
+- Sequence-to-Sequence LSTM (Need to finish) 
+- Generative Adversarial Nets (Need to finish)
 
 Running the Docker container from the Google Cloud repository
 -------------------------------------------------------------
